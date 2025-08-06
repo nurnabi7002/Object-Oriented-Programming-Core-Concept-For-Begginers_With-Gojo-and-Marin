@@ -21,7 +21,7 @@ Make sure you have **Node.js** installed.
 
 ```bash
 node index.js
-
+```
 
 📦 Features
 ✅ Class & Object structure
@@ -42,7 +42,7 @@ node index.js
 | Marin Kitagawa | Girl | 10    | ✅   | ✅             | ❌      | `love()`       |
 | Gojo Wakana    | Boy  | 10    | ✅   | ✅             | ✅      | `love()`       |
 
-```
+
 
 🎯 Learning Outcome
 This mini project helps you understand:
